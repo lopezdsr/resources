@@ -3,7 +3,7 @@
 copyright:
 
   years: 2015, 2019
-lastupdated: "2019-04-29"
+lastupdated: "2019-04-30"
 
 keywords: location, regions, data centers, service location, service availability
 
@@ -33,6 +33,7 @@ Services that are hosted globally create resources that operate across multiple 
 |-----|-----|-----|-----|-----|-----|
 | API Connect | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Hosted in Sydney | Hosted in Washington DC | Not available | 
 | Activity Tracker | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Hosted in Sydney | Not available | Not available | 
+| Activity Tracker with LogDNA | Hosted in Dallas | Not available | Hosted in Frankfurt | Not available | Not available | Not available | 
 | Alert Notification | Hosted in Dallas | Hosted in London | Not available | Hosted in Sydney | Not available | Not available | 
 | Analytics Engine | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Not available | Not available | Hosted in Tokyo | 
 | Apache Spark | Hosted in Dallas | Hosted in London | Not available | Not available | Not available | Not available | 
@@ -100,6 +101,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Language Translator | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Hosted in Sydney | Hosted in Washington DC | Hosted in Tokyo | 
 | Lift CLI | Hosted in Dallas | Not available | Not available | Not available | Not available | Not available | 
 | Log Analysis | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Hosted in Sydney | Not available | Not available | 
+| Log Analysis with LogDNA | Hosted in Dallas | Not available | Hosted in Frankfurt | Not available | Not available | Not available | 
 | MQ | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Hosted in Sydney | Not available | Not available | 
 | Machine Learning | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Not available | Not available | Hosted in Tokyo | 
 | Managed Financial Data API | Hosted in Dallas | Not available | Not available | Not available | Hosted in Washington DC | Not available | 
@@ -107,6 +109,7 @@ Services that are hosted globally create resources that operate across multiple 
 | Messages for RabbitMQ | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Hosted in Sydney | Hosted in Washington DC | Hosted in Tokyo | 
 | Mobile Foundation | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Hosted in Sydney | Hosted in Washington DC | Not available | 
 | Monitoring | Hosted in Dallas | Hosted in London | Syndicated from Dallas | Hosted in Sydney | Not available | Not available | 
+| Monitoring with Sysdig | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Not available | Not available | Not available | 
 | Natural Language Classifier | Hosted in Dallas | Not available | Hosted in Frankfurt | Not available | Hosted in Washington DC | Hosted in Tokyo | 
 | Natural Language Understanding | Hosted in Dallas | Hosted in London | Hosted in Frankfurt | Hosted in Sydney | Hosted in Washington DC | Hosted in Tokyo | 
 | Object Storage OpenStack Swift | Hosted in Dallas | Hosted in London | Not available | Not available | Not available | Not available | 
